@@ -391,6 +391,15 @@ ul {
   transform: translateY(0);
 }
 
+/* Al imprimir o exportar a PDF no hay scroll que dispare la animación,
+   así que el contenido debe verse completo siempre. */
+@media print {
+  .reveal {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
+
 /* ===== Marca / insignia en navbar ===== */
 .nav__brand {
   display: flex;
