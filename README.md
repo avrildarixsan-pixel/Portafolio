@@ -37,9 +37,24 @@ coincidir exactamente):
 
 | Archivo | Qué es | Lo pide la rúbrica |
 |---|---|---|
-| `assets/img/cromatografia.jpg` | Foto real del cromatograma de la práctica | Análisis de laboratorio |
-| `assets/docs/informe-tecnico.pdf` | Informe técnico final | Análisis de laboratorio |
+| `assets/docs/informe-tecnico.pdf` | Informe técnico final | 🔴 Crítico — Análisis de laboratorio |
 | `assets/img/extraccion-grasa.jpg` | Evidencia práctica T.A.F.Q. (opcional) | — |
+
+> **% Grasa (P.M.A.O.) quedó reescrito**: las fotos mostraron que el método
+> real fue extracción líquido-líquido (etanol para romper la emulsión +
+> éter etílico/de petróleo en embudo de decantación), no Soxhlet como se
+> había asumido antes. La página ya refleja el método correcto con 7
+> evidencias y el video, en orden del procedimiento. **Confirmar contra la
+> bitácora que el método descrito coincide con lo realizado.**
+
+> **Cromatografía (P.M.A.O.) quedó reescrita**: las fotos mostraron que la
+> muestra fue el pigmento de la **betarraga (betanina)**, extraído por
+> trituración en mortero y filtración, no una mezcla genérica. La página ya
+> incluye ese proceso completo (materiales → mortero → filtración →
+> disolventes → siembra en papel) con evidencia real. **Falta el R<sub>f</sub>
+> real** (distancias del componente y del solvente) — la foto del papel
+> muestra la siembra, no un desarrollo con frente de solvente marcado;
+> confirmar con la bitácora si el desarrollo se alcanzó a completar.
 
 Ya agregados ✅:
 
@@ -54,7 +69,10 @@ Ya agregados ✅:
 - `assets/video/grasa-solvente.mp4` — video del manto calefactor con el balón y el solvente (% Grasa)
 - `assets/docs/desafio-1.pdf` — PDF oficial del Desafío N.º 1 (subpágina Desafío 1)
 - `assets/img/grasa1.jpg` y `assets/img/grasa2.jpg` — mantos calefactores y pesada de la grasa extraída (% Grasa)
+- `assets/img/grasa-etanol.jpg`, `assets/img/grasa-decantacion.jpg`, `assets/img/grasa-fase-acuosa-organica.jpg`, `assets/img/grasa-capsulas-petri.jpg` y `assets/img/grasa-fase-organica-evaporada.jpg` — secuencia completa de la extracción líquido-líquido (% Grasa)
 - `assets/img/cromatografia-esquema.jpg` — esquema ilustrativo de la técnica (Cromatografía)
+- `assets/img/cromatografia-materiales.jpg`, `assets/img/cromatografia-mortero.jpg`, `assets/img/cromatografia-filtracion.jpg`, `assets/img/cromatografia-disolventes.jpg` y `assets/img/cromatografia.jpg` — proceso real de extracción del pigmento de la betarraga (Cromatografía)
+- `assets/img/humedad-termobalanza-resultado.jpg` — resultado real de la termobalanza, 29,412 % (% Humedad) ⚠️ confirmar a qué muestra corresponde (betarraga o carne)
 - `assets/docs/pmao-analisis-humedad-cenizas.pdf` — contenidos de humedad y cenizas (P.M.A.O.)
 - `assets/docs/pmao-analisis-grasas.pdf` — contenidos de análisis de grasas (P.M.A.O.)
 - `assets/docs/tai-cromatografia-papel.pdf` — contenidos de cromatografía en papel (T.A.I.)
@@ -74,11 +92,20 @@ Mientras falten, el sitio muestra un recuadro "📷 Imagen pendiente" en su luga
 
 **Contenido pendiente (además de los archivos de arriba):**
 
-- [ ] **Datos reales en las tablas**: las 4 tablas de análisis (humedad,
-  cenizas, grasa, cromatografía) traen valores marcados con "(ejemplo)".
-  Datos ya capturados en fotos: pesada de humedad 1,0290 g y balón con
-  grasa 132,94 g — faltan las masas iniciales para calcular los %.
-- [ ] **Conclusiones**: ajustar las 4 conclusiones a los resultados reales.
+- [x] **% Cenizas**: datos reales cargados (betarraga y carne, 2 réplicas
+  c/u) y conclusión actualizada. ⚠️ Ojo: los datos fueron entregados con el
+  encabezado "Humedad" pero la columna decía "crisol + ceniza" y las
+  magnitudes correspondían a calcinación — se cargaron en la tabla de
+  Cenizas. Verificar contra la bitácora física que la asignación sea
+  correcta. También llama la atención la Muestra 2 de carne (8,44 % vs.
+  2,38 % de la Muestra 1) — revisar si es un error de transcripción.
+- [ ] **Datos reales en las tablas**: faltan % Humedad, % Grasa y
+  Cromatografía. Datos ya capturados en fotos: pesada de humedad 1,0290 g,
+  resultado de termobalanza 29,412 % (falta confirmar la muestra), balón
+  con grasa 132,94 g — faltan las masas/distancias exactas del cuaderno
+  para calcular los % y el R<sub>f</sub> finales.
+- [ ] **Conclusiones**: ajustar las 3 conclusiones restantes a los
+  resultados reales.
 - [ ] **Reflexión (¿Quién soy?)**: que Avril la lea y agregue frases propias.
 - [ ] **Foto de perfil más personal** (retrato con delantal) — la actual es
   de espaldas y muy similar a la de la reflexión.
@@ -95,7 +122,7 @@ Mientras falten, el sitio muestra un recuadro "📷 Imagen pendiente" en su luga
 | ¿Quién soy?: reflexión (15%) | ✅ (recomendado: toque personal) |
 | P.M.A.O.: presentación del módulo (10%) | ✅ Completo |
 | P.M.A.O.: Desafío 1 con PDF (10%) | ✅ Completo |
-| P.M.A.O.: 5 subpáginas de análisis (15%) | ⚠️ Falta el Informe Técnico en PDF |
+| P.M.A.O.: 5 subpáginas de análisis (15%) | ⚠️ Solo falta el Informe Técnico en PDF |
 
 **Antes de entregar:**
 
