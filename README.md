@@ -4,7 +4,7 @@ Portafolio profesional de **4° Año Medio, Especialidad Química Industrial**
 (Centro Politécnico Particular de Ñuñoa, 2026), construido según la rúbrica
 del Desafío N.º 1 — Módulos integrados P.M.A.O. · T.A.I.
 
-**Sitio publicado:** <https://ivan1721.github.io/Portafolio/>
+**Sitio publicado:** <https://avrildarixsan-pixel.github.io/Portafolio/>
 
 📅 **Fecha de entrega: 31 de julio 2026** — el link se envía al correo del
 profesor a partir del lunes 20 de julio.
