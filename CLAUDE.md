@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Overview
 
-Static student portfolio (plain HTML/CSS/JS, no build step, no dependencies, no tests) for Avril Darix San Martín Jiménez — 4° Medio, Química Industrial, Centro Politécnico Particular de Ñuñoa. Published with GitHub Pages at <https://ivan1721.github.io/Portafolio/>; pushed changes appear in 1–2 minutes. All site content is in Spanish.
+Static student portfolio (plain HTML/CSS/JS, no build step, no dependencies, no tests) for Avril Darix San Martín Jiménez — 4° Medio, Química Industrial, Centro Politécnico Particular de Ñuñoa. Published with GitHub Pages from the `master` branch of Avril's repo `avrildarixsan-pixel/Portafolio` at <https://avrildarixsan-pixel.github.io/Portafolio/>. Work is done on branch `avi` of `Ivan1721/Portafolio` (whose `master` now holds a different, unrelated portfolio) and reaches the live site only after a PR from `Ivan1721:avi` into `avrildarixsan-pixel:master` is merged. All site content is in Spanish.
 
 The portfolio is graded against teacher rubrics (Desafío N.º 1, N.º 3, …). `README.md` tracks rubric status, pending files and data that still needs confirming against the student's lab notebook — keep it updated when adding pages or assets.
 
