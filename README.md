@@ -20,7 +20,8 @@ pmao.html                # P.M.A.O.: presentación del módulo + subpáginas
 ├── pmao-cenizas.html    # Análisis 2: % Cenizas
 ├── pmao-grasa.html      # Análisis 3: % Grasa
 ├── pmao-cromatografia.html  # Análisis 4: Cromatografía
-└── pmao-informe.html    # Análisis 5: Informe Técnico (PDF embebido)
+├── pmao-informe.html    # Análisis 5: Informe Técnico (PDF embebido)
+└── pmao-carbohidratos.html  # Desafío N.º 3: Análisis cualitativo de Carbohidratos
 tai.html                 # T.A.I.: espectrofotometría (guía PDF embebida)
 tafq.html                # T.A.F.Q.: extracción etérea de grasa (guía PDF embebida)
 css/styles.css           # Estilos (paleta cálida en :root)
@@ -39,6 +40,7 @@ coincidir exactamente):
 |---|---|---|
 | `assets/docs/informe-tecnico.pdf` | Informe técnico final | 🔴 Crítico — Análisis de laboratorio |
 | `assets/img/extraccion-grasa.jpg` | Evidencia práctica T.A.F.Q. (opcional) | — |
+| `assets/img/carbohidratos-lab2-1.jpg` … `carbohidratos-lab2-5.jpg` | Fotos del Laboratorio 2 (cromatografía CCF) | 🔴 Crítico — Desafío N.º 3 (50%) |
 
 > **% Grasa (P.M.A.O.) quedó reescrito**: las fotos mostraron que el método
 > real fue extracción líquido-líquido (etanol para romper la emulsión +
@@ -58,6 +60,7 @@ coincidir exactamente):
 
 Ya agregados ✅:
 
+- `assets/img/carbohidratos-lab1-1.jpg` … `carbohidratos-lab1-5.jpg` — 5 fotos del Laboratorio 1, pruebas cualitativas de carbohidratos (Desafío N.º 3) ⚠️ confirmar que los pies de foto coinciden con lo realizado
 - `assets/img/insignia.png` — insignia del colegio (encabezado de todas las páginas)
 - `assets/img/colegio.jpg` — foto oficial del colegio (Inicio, sección "Mi colegio")
 - `assets/img/avril.jpg` — foto personal (¿Quién soy?)
